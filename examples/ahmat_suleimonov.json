@@ -1,0 +1,110 @@
+{
+  "resume": {
+      "resume_id": "1",
+      "first_name": "AHMAT",
+      "last_name": "SULEIMENOV",
+      "middle_name": "-",
+      "birth_date": "-",
+      "birth_date_year_only": "-",
+      "country": "-",
+      "city": "-",
+      "about": "-",
+      "key_skills": "['Programming Languages: Python, C++, C, Dart, JavaScript, HTML/CSS', 'Frameworks/Tools: Git, Flutter, SQL, Pandas, Photoshop, Figma']",
+      "salary_expectations_amount": "-",
+      "salary_expectations_currency": "-",
+      "photo_path": "-",
+      "gender": "-",
+      "language": "-",
+      "resume_name": "AHMAT SULEIMENOV.docx",
+      "source_link": "-",
+      "contactItems": [
+        {
+          "resume_contact_item_id": "1",
+          "value": "+971 50 000 9004",
+          "comment": "",
+          "contact_type": "Телефон"
+        },
+        {
+          "resume_contact_item_id": "2",
+          "value": "ahmat.suleimenov@nyu.edu",
+          "comment": "",
+          "contact_type": "Email"
+        },
+        {
+          "resume_contact_item_id": "3",
+          "value": "linkedin.com/akaaasuleimenov",
+          "comment": "",
+          "contact_type": "Linkedin"
+        },
+        {
+          "resume_contact_item_id": "4",
+          "value": "akaaaleimenov.github.io",
+          "comment": "",
+          "contact_type": "Github"
+        }
+      ],
+      "educationItems": [
+        {
+          "resume_education_item_id": "1",
+          "year": "2019",
+          "organization": "Nazarbayev Intellectual School",
+          "faculty": "-",
+          "specialty": "-",
+          "result": "A-level education in Computer Science, Mathematics, and Physics",
+          "education_type": "4",
+          "education_level": "-"
+        },
+        {
+          "resume_education_item_id": "2",
+          "year": "2020",
+          "organization": "42 Software Engineering School",
+          "faculty": "-",
+          "specialty": "-",
+          "result": "Software Engineering\n• Implemented 10+ C library functions\n• Taught 50+ new students the foundation of C programming language and terminal usage\n• Built a fully working copy of the shell",
+          "education_type": "3",
+          "education_level": "-"
+        },
+        {
+          "resume_education_item_id": "3",
+          "year": "2024",
+          "organization": "New York University Abu Dhabi",
+          "faculty": "B.S. of Computer Science and Mathematics",
+          "specialty": "-",
+          "result": "Relevant Coursework: Software Engineering, Computer Systems Organizations, Algorithms,Data Structures, Autonomous and Social Robots, iOS University",
+          "education_type": "2",
+          "education_level": "5"
+        }
+      ],
+      "experienceItems": [
+        {
+          "resume_experience_item_id": "1",
+          "starts": "2021",
+          "ends": "-",
+          "employer": "New York University Abu Dhabi",
+          "city": "Abu Dhabi, UAE",
+          "url": "-",
+          "position": "Unix Lab Tutor",
+          "description": "• Assisting students with their assignments, CS concepts, and personal tech projects\n• Leading CS related workshops on a monthly basis with more than 30 students attending regularly",
+          "order": "2"
+        },
+        {
+          "resume_experience_item_id": "2",
+          "starts": "2021",
+          "ends": "-",
+          "employer": "Impact Admissions",
+          "city": "Nur-Sultan, KZ",
+          "url": "-",
+          "position": "Lead Developer",
+          "description": "• Programmed a bot to modify scores of 98 students and post leader board in telegram and Google Sheets.\n• Researched market of 10 Ed Tech companies, compared their gains, and tested their platform on 20 students.\n• Developing an admissions prediction platform that analyzes student’s essays, exams, and grades",
+          "order": "1"
+        }
+      ],
+      "languageItems": [
+        {
+          "resume_language_item_id": "",
+          "language": "",
+          "language_level": ""
+        }
+      ]
+    }
+}
